@@ -17,7 +17,7 @@ const NumberList = () => {
     return (
         <div>
             {
-                (numbers.length > 0) ? numbers.map((obj) => <h4>{ obj.num } </h4>):<div>Your list is empty, click the button to add numbers.</div>
+                (numbers.length > 0) ? numbers.map((obj) => <h4 key={numbers.findIndex( x => x == obj)}>{ obj.num } </h4>):<div>Your list is empty, click the button to add numbers.</div>
             }
         </div>
     )
