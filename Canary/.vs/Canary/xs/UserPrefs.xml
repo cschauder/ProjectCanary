@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{80992FB3-C8E5-4498-A1A2-1FD41C35A71C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Canary/ClientApp/src/setupProxy.tsx">
+    <Files>
+      <File FileName="Canary/ClientApp/package.json" Line="1" Column="1" />
+      <File FileName="Canary/ClientApp/package-lock.json" />
+      <File FileName="Canary/ClientApp/src/App.js" />
+      <File FileName="Canary/ClientApp/src/index.js" Line="23" Column="33" />
+      <File FileName="Canary/ClientApp/tsconfig.json" />
+      <File FileName="Canary/Services/NumberService.cs" />
+      <File FileName="Canary/Models/Number.cs" />
+      <File FileName="Canary/Controllers/NumbersController.cs" />
+      <File FileName="Canary/Program.cs" />
+      <File FileName="Canary/ClientApp/aspnetcore-https.js" />
+      <File FileName="Canary/ClientApp/aspnetcore-react.js" />
+      <File FileName="Canary/Properties/launchSettings.json" />
+      <File FileName="Canary/ClientApp/src/components/NavMenu.css" />
+      <File FileName="Canary/ClientApp/src/components/Layout.js" />
+      <File FileName="Canary/ClientApp/src/reportWebVitals.js" />
+      <File FileName="Canary/ClientApp/src/service-worker.js" />
+      <File FileName="Canary/ClientApp/src/components/Input.js" Line="1" Column="1" />
+      <File FileName="Canary/ClientApp/src/AppRoutes.tsx" Line="2" Column="14" />
+      <File FileName="Canary/ClientApp/src/setupProxy.tsx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Canary" expanded="True">
+            <Node name="Canary">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True" />
+                  <Node name="setupProxy.tsx" selected="True" />
+                </Node>
+                <Node name="package.json" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Canary PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
