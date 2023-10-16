@@ -21,4 +21,7 @@ Each number has three spaces horizontally (making a 3x3 grid). Sections that do 
 ## Notes
 * Due to time constraints, I was not able to address everything to the extent that I would have liked to. While the basic functionality works, I did not have a chance to add error handling.
 * Additionally, I did not have time to add unit tests. However, I do have experience with unit testing, and would be happy to discuss my skills more. 
-* I converted the application from Javascript to Typescript, and from what I understand there are some files that can't be converted to .ts or .tsx. From my research, I found that the .setupProxy cannot be in Typescript (https://github.com/facebook/create-react-app/issues/8273). I left the main files (index.js, App.js, etc) in Javascript because I got a lot of errors when trying to convert them. Given more time, I would research more what was causing these errors, and whether or not they could be resolved. 
+* I converted the application from Javascript to Typescript, and from what I understand there are some files that can't be converted to .ts or .tsx. From my research, I found that the .setupProxy cannot be in Typescript (https://github.com/facebook/create-react-app/issues/8273). I left the main files (index.js, App.js, etc) in Javascript because I got a lot of errors when trying to convert them. Given more time, I would research more what was causing these errors, and whether or not they could be resolved.
+
+
+Thank you for your time and consideration. 
